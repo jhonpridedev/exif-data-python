@@ -1,6 +1,8 @@
 # Exif Data
 
-Get exif data, metadata or hidden data from an image file with python py
+Get EXIF data, metadata or hidden data from an image file with python py
+
+Exchangeable Image File Format (Exif) is a specification for image file formats used by digital cameras. It was created by the now-defunct Japan Electronic Industry Development Association. The specification leverages existing file formats such as JPEG, TIFF Rev, and others.
 
 ## Requirements
 - Python 3.11
